@@ -1,0 +1,34 @@
+.box_1{
+    height: 400px;
+    width: 880;
+    background-image: url(ismail\ email.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    color: white;
+    
+}
+
+.face{
+    padding-left: 420px;
+    padding-top: 230px;
+}
+
+.yout{
+    padding-left: 10px;
+    padding-top: 230px;
+}
+
+.inst{
+    padding-left: 10px;
+    padding-top: 230px;
+}
+
+.twt{
+    padding-left: 10px;
+    padding-top: 230px;
+}
+
+
+a{
+    color: white;
+}
